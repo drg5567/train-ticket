@@ -15,7 +15,7 @@ You can get more details at [Wiki Pages](https://github.com/FudanSELab/train-tic
 ## Service Architecture Graph
 ![architecture](./image/2.png)
 
-## Quick Start
+<!-- ## Quick Start
 We provide k8s deployment to quickly deploy our application:  [Using Kubernetes](#Using-Kubernetes).
 
 ### Using Kubernetes
@@ -85,9 +85,9 @@ make reset-deploy
 
 #### 4. Visit the Train Ticket web page at [http://[Node-IP]:32677](http://[Node-IP]:32677).
 
-
+-->
 ## Build From Source
-In the above, We use pre-built images to quickly deploy the application.
+<!--In the above, We use pre-built images to quickly deploy the application.-->
 
 If you want to build the application from source, you can refer to [the Installation Guide](https://github.com/FudanSELab/train-ticket/wiki/Installation-Guide).
 
